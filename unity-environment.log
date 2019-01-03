@@ -1,0 +1,3902 @@
+8/12/2018 9:32:44 PM
+ 
+Log
+-0.001347764
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+-0.001583917
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+-0.003474883
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+-0.003974618
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+-0.001539454
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+0.002156426
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+0.001369386
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+0.001152639
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+0.01576788
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+-0.0008580576
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+-0.002320784
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+-0.005014556
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+-0.002913682
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+-0.004827962
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+0.006111162
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+-0.006217242
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+-0.002112269
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+-0.003340675
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+-0.002528773
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+-0.003892466
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+-0.0007523792
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+-0.001561471
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+-0.01086689
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+-0.005936057
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+-0.007528391
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+0.002733807
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+0.007746409
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+-0.004029983
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+0.001490474
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+0.000926564
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+0.004967004
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+0.001061432
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+-0.003315545
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+-0.0002569335
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+-0.001745786
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+0.000243545
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+-0.0001221661
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+0.01024495
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+0.002591157
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+-9.031143E-05
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+-0.002290484
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+-0.002035837
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+0.006964928
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+0.002923082
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+0.0008301053
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+0.004532218
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+0.0006108318
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+0.00654487
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+0.008349725
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+-0.003015782
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+-5.032041E-05
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+0.004384131
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+0.0005949597
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+0.00228673
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+-0.002522977
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+-0.001325861
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+0.003949209
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+-0.003581072
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+0.0001006639
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+-0.0007363606
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+0.00717197
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+-0.001509339
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+-0.003184358
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+0.000801474
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+0.008106167
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+0.002771976
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+-0.00127566
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+-0.0003517231
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+0.001161452
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+0.000682683
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+-0.0007411126
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+0.008137134
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+0.002907466
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+-0.001743007
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+0.002091131
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+-0.0001386092
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+0.0001170117
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+-0.001408255
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+0.003742111
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+-0.0001128313
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+0.007889053
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+0.001541493
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+0.001188971
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+0.0008227748
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+0.005512002
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+-0.003279459
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+0.006256143
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+0.001505291
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+0.0002202279
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+-0.001778473
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+0.0007407982
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+0.003799306
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+0.001904058
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+0.001409931
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+-0.0007079448
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+-0.001135441
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+0.01191468
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+-0.003229551
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+0.000151346
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+0.01436575
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+-4.096389E-05
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+0.004385778
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+-3.540413E-05
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+0.001167213
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+-0.00113944
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+-2.051411E-05
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+0.0004043061
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+-0.0007835639
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+0.0007994734
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+3.454582E-05
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+0.0009437281
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+0.0003266894
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+0.005260425
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+0.003529022
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+0.0004903997
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+2.075023E-05
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+-0.0001455966
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+-0.0001842414
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+0.0002566356
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+0.000210442
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+-0.0007245833
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+-0.001079437
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+-0.003846528
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+0.0003551074
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+3.872914E-05
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+-0.0004739476
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+-0.0008936518
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+2.656168E-05
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+0.0001812629
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+0.0005635625
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+-0.004409238
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+0.01498075
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+0.0002417989
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+-0.001381111
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+-0.005699293
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+-0.0008234582
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+0.002476161
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+0.001302323
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+0.0004110117
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+-0.0008925113
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+-0.0009502312
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+-0.002542799
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+-0.0009301812
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+4.828292E-05
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+0.000184514
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+-0.0001008537
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+-0.0001295865
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+0.01424009
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+-0.001368859
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+0.001024741
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+0.0005283639
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+-0.0006268371
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+0.0008302446
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+0.003078063
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+-0.0004956851
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+-0.0007121775
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+-0.0005048389
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+0.003710086
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+0.003754469
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+-0.0002446598
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+0.02092347
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+-0.0007957934
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+0.0003593102
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+6.202645E-05
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+0.0001854923
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+3.761523E-08
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+0.001650354
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+-0.0005147725
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+-5.527904E-05
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+4.20994E-06
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+-3.007751E-05
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+-0.0001366446
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+-3.586025E-05
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+0.0002946529
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+0.000957792
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+2.268738E-05
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+-0.0002678168
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+-0.001435727
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+3.761523E-08
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+-0.001380576
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+0.0009652055
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+0.0009734082
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+0.002686178
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+-0.0009559493
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+8.86277E-05
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+-0.0001486406
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+1.866267E-07
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+-0.0004341064
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+-0.0009728033
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+-0.001521898
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+-0.0009309135
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+3.356384E-07
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+-0.002644171
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+-0.002336815
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+-0.000731133
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+-0.0005343953
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+-0.0008219405
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+0.0006762493
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+0.0004350025
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+-0.0005685267
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+0.0001870472
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+0.0001114983
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+1.866268E-07
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+2.145095E-05
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+0.0001117963
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+1.300163E-05
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+1.894254E-05
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+0.01223548
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+3.315871E-06
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+0.005577246
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+0.0009779896
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+-0.0001196452
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+-0.00146666
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+0.000715269
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+0.0004570562
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+0.0007957433
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+3.761512E-08
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+0.02331027
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+3.761511E-08
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+1.717395E-05
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+-0.0006800804
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+0.0001627583
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+8.680289E-06
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+-0.0003710182
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+0.0008956918
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+0.0006002564
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+0.02141182
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+3.356384E-07
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+1.229708E-06
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+0.01975418
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+0.002101776
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+-4.760279E-05
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+-0.0006594821
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+-0.0001816466
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+0.0003456214
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+0.0001607724
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+-0.0005372491
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+0.0005300719
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+1.866268E-07
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+0.001582489
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+0.0006082742
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+0.0001129884
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+-0.001828319
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+1.825755E-06
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+0.002441243
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+0.0003790646
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+0.001395518
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+3.624743E-05
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+0.001866515
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+-0.00184971
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+-0.004050047
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+1.255459E-05
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+-2.248311E-05
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+3.761523E-08
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+-0.0006463055
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+3.524134E-05
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+0.0004313509
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+1.527731E-06
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+0.001161206
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+-0.001295492
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+-0.000116661
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+0.001306135
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+8.019599E-06
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+0.0004919242
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+-0.00035665
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+7.975232E-05
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+1.195854E-05
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+0.0003048334
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+-0.0003932069
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+1.046843E-05
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+2.421801E-06
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+2.611465E-05
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+0.0003560263
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+-6.436987E-05
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+3.761522E-08
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+3.761522E-08
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+0.0001626093
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+0.002682491
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+-0.0003507217
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+-1.118303E-05
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+0.0004826892
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+7.066912E-05
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+0.02216071
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+-0.0001567004
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+0.004173395
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+0.0007803565
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+0.0001553252
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+3.461242E-05
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+-0.0002751888
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+0.002241037
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+0.000740897
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+-0.0006284546
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+0.001268856
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+3.761523E-08
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+-0.0003596418
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+3.761522E-08
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+-0.0006459156
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+-0.001247462
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+0.0003536931
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+4.906244E-05
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+-0.0004809692
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+0.0003606674
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+-2.741326E-06
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+-8.869372E-05
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+-2.611947E-05
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+1.866268E-07
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+2.790278E-05
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+5.99808E-06
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+0.0005604703
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+-0.001219094
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+-0.004034155
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+0.002665688
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+0.0006127639
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+-0.0003403033
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+-0.0007938594
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+1.106448E-05
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+3.267116E-05
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+2.030319E-05
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+-0.0004935208
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+0.01400843
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+0.001383364
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+-0.004664607
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+-0.001098344
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+1.777E-05
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+0.001181668
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+3.761522E-08
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+-0.001427693
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+-0.001121965
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+-0.0007033578
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+0.01545724
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+0.0007457939
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+-0.002062592
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+-0.0008911167
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+-0.001638016
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+-0.0004578832
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+-0.0003212481
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+5.472487E-05
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+0.0002910573
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+-0.0003546201
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+0.0009677525
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+-0.0002839772
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+0.007530926
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+0.0008675728
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+-6.479124E-06
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+5.353278E-05
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+1.080697E-06
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+0.0007670513
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+-0.0001809325
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+0.002462303
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+-0.0004628973
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+-0.003214032
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+0.0005540628
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+7.55865E-05
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+3.761522E-08
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+0.0009232904
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+-0.0001027589
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+0.0003740589
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+0.01279238
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+-0.002242412
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+0.001162464
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+0.001896441
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+1.493878E-05
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+-0.002042283
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+3.761523E-08
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+0.0001852684
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+0.000133403
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+3.761522E-08
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+0.01121759
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+-8.910459E-05
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+0.003532022
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+0.001055668
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+-8.985351E-05
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+-0.0004207779
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+0.0002071638
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+-0.000380796
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+-0.0004209331
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+0.0004105646
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+-9.576388E-05
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+3.013796E-05
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+-0.00121742
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+-0.0005801843
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+-0.0008905426
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+0.0003517444
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+3.761522E-08
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+-0.001208194
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+0.0006231832
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+0.008029128
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+-9.057423E-05
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+-0.001009791
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+-0.0002415607
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+0.0002390369
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+-1.158572E-05
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+9.167976E-05
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+0.000530352
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+0.0001452368
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+-0.0006878076
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+-0.0005657237
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+3.761512E-08
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+7.09688E-05
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+0.00186338
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+-0.001008464
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+-0.0005784266
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+-6.861892E-05
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+0.0003181041
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+3.761523E-08
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+-0.0007184886
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+-5.527462E-05
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+1.240558E-05
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+-0.001572087
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+-0.00186212
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+0.0001927314
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+0.0007268521
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+3.761522E-08
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+2.432651E-05
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+-0.004041287
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+-0.001390904
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+-0.0008739619
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+0.0002937395
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+3.761522E-08
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+0.0007380921
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+0.0001258034
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+-0.000132612
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+-0.001408973
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+-0.0001443278
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+-0.001912516
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+0.002360152
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+0.001041182
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+7.276329E-05
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+0.004305733
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+3.761522E-08
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+3.761523E-08
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+3.761523E-08
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+-0.0008712327
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+0.0001311678
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+3.356384E-07
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+0.001332482
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+2.462453E-05
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+0.0009121757
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+6.02383E-05
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+0.009765919
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+6.743139E-06
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+-0.001055085
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+3.761522E-08
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+4.846501E-07
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+0.006125926
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+-0.00204293
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+8.084243E-06
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+-0.001400389
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+-0.00127983
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+0.0004140587
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+-0.0001642594
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+0.003200217
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+0.00233345
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+-6.159879E-05
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+1.080697E-06
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+3.356384E-07
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+-0.003832979
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+3.761523E-08
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+0.002486967
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+-7.624889E-05
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+0.0002076084
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+1.419372E-05
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+-0.0009630453
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+-0.0001527356
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+-6.770156E-05
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+1.285261E-05
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+-0.001589415
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+1.866407E-05
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+3.761523E-08
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+-0.001554654
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+-0.0001670323
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+3.761522E-08
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+5.144662E-05
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+-0.004061632
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+3.761512E-08
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+-0.0001759729
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+3.761522E-08
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+0.0002208728
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+1.613087E-05
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+0.0003581125
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+0.0001033027
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+1.37872E-06
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+0.001092873
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+2.730674E-05
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+-0.000801556
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+-9.671343E-05
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+-0.001890829
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+8.631534E-05
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+8.680289E-06
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+0.0001734571
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+-0.0005257447
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+0.000433278
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+-0.0001961594
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+6.445116E-06
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+-0.001109931
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+-0.00201535
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+7.110915E-05
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+3.058499E-05
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+7.821824E-05
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+0.0001861765
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+0.001207317
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+0.003558374
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+3.624743E-05
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+0.004030886
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+-8.146132E-05
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+-0.0002721472
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+0.004135399
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+0.001043354
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+4.954999E-06
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+3.761523E-08
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+-0.000634486
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+7.379836E-05
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+-0.001300912
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+4.805988E-06
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+0.001480183
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+2.745575E-05
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+-0.0003728436
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+0.0009571257
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+8.084243E-06
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+0.001370199
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+3.356384E-07
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+1.37872E-06
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+0.01109691
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+4.20994E-06
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+0.002312641
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+-0.003382733
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+-0.0002944609
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+3.761522E-08
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+-0.0009066668
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+0.001661094
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+-0.000457309
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+-0.0004619843
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+0.0001901154
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+-0.0002334401
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+3.761523E-08
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+1.285261E-05
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+-0.0001149329
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+-6.141935E-05
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+1.37872E-06
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+-0.0001608399
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+-0.0001917004
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+0.01690897
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+1.329965E-05
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+-0.0002534878
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+-0.0005398206
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+-0.0002416573
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+-0.0003856971
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+3.19261E-05
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+2.868836E-06
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+1.37872E-06
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+0.02912366
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+6.14304E-05
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+1.672692E-05
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+-0.0005312997
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+0.0004627469
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+-0.0003254683
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+-0.001120295
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+0.001184531
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+0.001544056
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+-0.0002590662
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+0.0005138296
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+0.0001015145
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+0.000228486
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+-0.000690571
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+0.0005148543
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+-5.63535E-05
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+5.205333E-05
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+-0.0002068906
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+3.761522E-08
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+-0.001115458
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+2.272789E-06
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+-8.092957E-05
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+0.02491836
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+-0.001711016
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+3.761522E-08
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+-0.000310661
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+1.240558E-05
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+-0.0002978639
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+0.0007139522
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+-5.065197E-05
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+2.179331E-05
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+0.001797665
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+2.123778E-06
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+-0.0001905421
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+1.225657E-05
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+-0.0002116374
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+0.01665427
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+-5.009879E-05
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+0.0003046173
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+3.761522E-08
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+-0.0004577564
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+0.0001860041
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+0.0006282706
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+-0.0003334786
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+1.676743E-06
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+1.002139E-05
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+-0.002376859
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+2.358145E-05
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+0.004985651
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+-0.0007479782
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+-0.001405455
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+3.761522E-08
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+6.639022E-05
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+0.0002560396
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+0.0009972675
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+3.761523E-08
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+-0.0009233882
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+-4.931112E-05
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+0.00136316
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+0.002414624
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+0.0005628171
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+-0.0003739315
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+0.001021065
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+-0.0004478668
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+3.761522E-08
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+0.0001354892
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+0.0002222139
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+3.356384E-07
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+-0.002748623
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+-0.0023098
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+0.001590249
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+9.31685E-07
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+5.652646E-05
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+-0.000329055
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+1.974766E-06
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+7.081813E-05
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+0.0001037497
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+0.0007745284
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+3.166859E-06
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+-0.002889644
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+1.866268E-07
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+0.001049395
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+4.060929E-06
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+-0.0006967293
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+-3.882067E-05
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+0.002488083
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+-0.001665064
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+3.761522E-08
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+6.147092E-06
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+-0.0003876209
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+0.000223108
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+3.761522E-08
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+-0.001423997
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+3.761523E-08
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+-0.003371049
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+3.761523E-08
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+0.003244417
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+1.374668E-05
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+1.37872E-06
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+0.00238391
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+3.761523E-08
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+9.425347E-06
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+-0.002928391
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+0.002388389
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+5.631905E-05
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+0.01087513
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+0.0005111474
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+-0.0002051952
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+-0.0008176289
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+-0.0002907453
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+0.001209266
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+-2.264525E-05
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+-0.001043424
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+-0.0001242367
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+1.229708E-06
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+0.005339477
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+0.006832641
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+0.002878966
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+-9.069583E-06
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+3.761522E-08
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+-0.0002971505
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+-0.0003554088
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+6.336617E-07
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+3.761522E-08
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+0.0001678247
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+0.0005062872
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+3.166859E-06
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+0.009471374
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+-0.0005556634
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+-0.00184779
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+3.761523E-08
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+0.0004652519
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+0.004450761
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+-0.0007567193
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+3.761522E-08
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+-0.0009521917
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+1.866268E-07
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+0.00881095
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+7.339185E-06
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+0.003839641
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+3.761522E-08
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+-0.0004025045
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+0.0009902153
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+-0.0001437398
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+4.846501E-07
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+-0.005255179
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+-0.0001423851
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+0.0004598812
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+3.761522E-08
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+-0.003503451
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+-3.54582E-05
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+0.03724006
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+-0.004285466
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+3.761523E-08
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+-0.00094203
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+0.0002092499
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+1.527731E-06
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+0.004007483
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+2.272789E-06
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+-0.005439152
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+3.761522E-08
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+3.761522E-08
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+-0.0003605175
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+0.0002496321
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+0.002561481
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+0.004416028
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+-0.001609905
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+9.574359E-06
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+-0.005444415
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+5.338377E-05
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+3.761522E-08
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+3.761522E-08
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+-0.002394254
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+3.761522E-08
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+4.041976E-05
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+3.761522E-08
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+0.0005707862
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+-0.0009237413
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+-0.0003330065
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+-8.277094E-05
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+7.935231E-06
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+0.008121642
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+-0.007070885
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+-0.0005407691
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+3.761523E-08
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+0.005573667
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+3.911917E-06
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+-0.003149839
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+3.761523E-08
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+0.005447826
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+-0.0001211214
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+-0.003169873
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+3.761522E-08
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+0.000262298
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+3.761522E-08
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+-1.841283E-05
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+-0.004168256
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+0.0004294766
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+0.001986337
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+-0.0002404943
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+0.0005568221
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+3.761522E-08
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+-0.002361366
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+0.002417712
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+-0.002431646
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+7.394738E-05
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+-0.0002700097
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+5.070156E-05
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+-0.00288393
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+3.761523E-08
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+2.094163E-05
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+1.866268E-07
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+3.967471E-05
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+-0.0003864513
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+-0.009433011
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+0.0002891201
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+3.761522E-08
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+0.0005804931
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+0.006386981
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+3.761523E-08
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+0.0002578277
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+-0.008409755
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+-0.002801127
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+0.002551132
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+3.761523E-08
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+-0.0006502226
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+-9.119524E-06
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+3.761522E-08
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+0.0005970224
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
+Log
+0.003469282
+UnityEngine.Debug:Log(Object)
+ScaleVelocity:OnCollisionEnter(Collision) (at Assets/Pongo/Scripts/ScaleVelocity.cs:29)
+
